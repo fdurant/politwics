@@ -1,0 +1,7 @@
+created: 2017-01-15
+seedlists:
+  - slug: 'vlaamse-regering'
+    owner_id: 'vlaparl'
+  - slug: 'leden-vlaams-parlement'
+    owner_id: 'vlaparl'
+seedusers: ['svengatz']
